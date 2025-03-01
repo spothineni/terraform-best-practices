@@ -1,4 +1,4 @@
-# terraform-best-practices
+# terraform code styling best practices
 
 While Terraform itself (HCL - HashiCorp Configuration Language) doesn’t enforce strict whitespace rules, consistent and readable whitespace usage is a best practice for maintainability, collaboration, and clarity. Since your previous question referenced YAML in a Terraform context, I’ll cover whitespace best practices for both **HCL** (Terraform’s primary language) and **YAML** (when used with Terraform, e.g., via providers or modules). Below are the guidelines:
 
